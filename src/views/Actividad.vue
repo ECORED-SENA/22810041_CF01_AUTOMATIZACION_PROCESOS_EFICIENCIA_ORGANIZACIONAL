@@ -19,71 +19,76 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Requerimientos y notaciones del proceso de automatización',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b>Objetivo:</b> verificar la apropiación de los conceptos de requerimientos, técnicas de levantamiento, características y tipos de requerimientos, notaciones UML y modelado de procesos, abordados en el componente formativo Requerimientos del proceso de automatización.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
-          texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+          texto: 'Según el componente formativo, ¿qué son los requerimientos?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto:
+                'Las especificaciones de diseño que indican cómo debe construirse el producto.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Las condiciones o capacidades que debe tener un sistema, producto o servicio para satisfacer una necesidad.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'El cronograma de actividades que debe cumplir el equipo de desarrollo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'El presupuesto asignado al proyecto informático.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. <em>Board</em> del <em>software</em> EAGLE.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            'Durante la ejecución de un proyecto aparecen necesidades que no se habían previsto. ¿Qué se recomienda frente a esta situación?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto:
+                'Rechazar toda solicitud nueva hasta terminar el proyecto.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Definir desde el principio la forma de gestionar los cambios e incluir cláusulas contractuales claras.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Documentar los cambios únicamente al finalizar el desarrollo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Reemplazar los requerimientos iniciales por los nuevos, sin dejar registro.',
               esCorrecta: false,
             },
           ],
@@ -92,28 +97,33 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: '@/assets/actividad/imagen1.png',
+          texto:
+            'En la técnica de observación para el levantamiento de requerimientos, ¿qué caracteriza a la observación pasiva?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto:
+                'El observador conversa con los usuarios mientras ejecutan el proceso.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'El observador solo toma notas y no interfiere en el desempeño de las operaciones.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'El observador aplica un cuestionario con preguntas abiertas y cerradas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'El observador dirige una mesa de trabajo con un facilitador y un transcriptor.',
               esCorrecta: false,
             },
           ],
@@ -123,28 +133,28 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            'Un requerimiento cuya implementación puede comprobarse y cuyo resultado de prueba es correcto o incorrecto cumple con la característica de ser:',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Verificable.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Singular.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Necesario.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Conforme.',
               esCorrecta: false,
             },
           ],
@@ -153,28 +163,31 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto:
+            'La aplicación para pedir un taxi debe operar las 24 horas del día durante todo el año. Este enunciado corresponde a un requerimiento:',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto:
+                'Funcional, porque describe una acción visible para el usuario.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'No funcional, porque se refiere a la disponibilidad del sistema.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Funcional, porque hace parte de la interfaz de captura.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'No funcional, porque describe el menú de la aplicación.',
               esCorrecta: false,
             },
           ],
@@ -184,28 +197,32 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+            '¿Cuál es el propósito de la trazabilidad de los requerimientos?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto:
+                'Documentar la vida de cada requerimiento, desde su formulación original hasta el documento final.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'Asignar el presupuesto correspondiente a cada fase del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Definir el lenguaje de programación con el que se construirá la aplicación.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Limitar el número de usuarios que pueden acceder al sistema.',
               esCorrecta: false,
             },
           ],
@@ -215,28 +232,32 @@ export default {
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+            'Dentro de los diagramas UML, el diagrama de casos de uso se clasifica como un diagrama de:',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto:
+                'Estructura, porque modela las clases, los atributos y sus relaciones.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Comportamiento, porque describe lo que hace el sistema desde un punto de vista externo.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Estructura, porque representa el despliegue de los componentes del sistema.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Comportamiento, porque organiza los elementos del modelo en paquetes.',
               esCorrecta: false,
             },
           ],
@@ -246,28 +267,28 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
-          imagen: '@/assets/actividad/imagen2.png',
+            'En el modelado de procesos, ¿a qué categoría de información corresponde todo aquello que pasa a través de un proceso?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Resultados.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Insumos.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Facilitadores.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Guías.',
               esCorrecta: false,
             },
           ],
@@ -277,28 +298,30 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: '@/assets/actividad/imagen3.png',
+            'En un diagrama de flujo, ¿qué representa el símbolo de decisión?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'El inicio y el final de un proceso.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'La lectura de datos en la entrada y la impresión de datos en la salida.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto:
+                'El análisis de una situación con base en los valores verdadero y falso.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'El orden de ejecución de las operaciones.',
               esCorrecta: false,
             },
           ],
@@ -307,29 +330,28 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: '@/assets/actividad/imagen3.png',
+          texto: '¿Cuáles son los principales elementos del modelo BPMN?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Clases, atributos y operaciones.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Eventos, actividades y compuertas.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Insumos, resultados y guías.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Actores, escenarios y estados.',
               esCorrecta: false,
             },
           ],
@@ -339,28 +361,29 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+            '¿Qué técnica de levantamiento es apropiada para recopilar información de muchas personas en poco tiempo?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Análisis directo del entorno laboral y operativo.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Encuestas o cuestionarios dirigidos a los participantes.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Entrevistas individuales realizadas con los usuarios clave.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Mesas de trabajo desarrolladas entre diferentes áreas.',
               esCorrecta: false,
             },
           ],
@@ -370,28 +393,28 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Qué elemento representa el conjunto de requisitos aprobados en un momento determinado?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Matriz utilizada para documentar toda la trazabilidad.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Documento empleado para diseñar toda la solución.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Línea base utilizada para controlar cambios posteriores.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Modelo gráfico utilizado para representar los procesos.',
               esCorrecta: false,
             },
           ],
@@ -401,29 +424,32 @@ export default {
         {
           id: 13,
           texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
+            '¿Qué característica permite comprobar un requisito mediante una prueba, inspección o análisis?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Completo, porque contiene toda la información necesaria.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'Singular, porque establece solamente una capacidad requerida.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Factible, porque puede realizarse con recursos disponibles.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto:
+                'Verificable, porque permite comprobar objetivamente su cumplimiento.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -432,28 +458,30 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: '@/assets/actividad/imagen4.png',
+            '¿Qué técnica utiliza registros de eventos de los sistemas para reconstruir el flujo real?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Minería de procesos basada en registros de eventos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Minería de tareas basada en acciones del usuario.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Captura asistida basada en grabaciones del proceso completo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Prototipado basado en modelos preliminares del proceso esperado.',
               esCorrecta: false,
             },
           ],
@@ -463,28 +491,206 @@ export default {
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+            '¿Qué tipo de requerimiento establece los servicios que debe prestar un sistema?',
+          imagen: '@/assets/actividad/imagen3.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Requerimiento de seguridad asociado con protección de información.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Requerimiento funcional asociado con servicios del sistema.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Requerimiento legal asociado con normas de obligatorio cumplimiento.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Requerimiento técnico asociado con plataformas y aplicaciones utilizadas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Qué instrumento permite realizar el seguimiento de los requerimientos hacia atrás y hacia adelante?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto:
+                'Documento de diseño utilizado para construir la automatización.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'Diagrama de actividades utilizado para representar el proceso.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto:
+                'Matriz de trazabilidad utilizada para relacionar los requisitos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Documento de procesos utilizado para registrar las actividades.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Qué documento describe el proceso tal como se realiza actualmente, paso a paso?',
+          imagen: '@/assets/actividad/imagen4.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Documento SRS para especificar requisitos propios del <i>software</i>.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Documento SDD para describir la arquitectura del robot desarrollado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Documento SyRS para especificar requisitos generales del sistema.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Documento PDD para describir detalladamente el proceso actual.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto:
+            '¿Qué representa el modelo AS-IS dentro de la caracterización de un proceso?',
+          imagen: '@/assets/actividad/imagen4.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'El proceso tal como se ejecuta actualmente en operación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'El proceso futuro después de implementar completamente la automatización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'El diseño técnico utilizado para construir posteriormente el robot.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'El conjunto final de requisitos aprobados para la solución.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Qué elementos de BPMN permiten diferenciar las actividades realizadas por personas y robots?',
+          imagen: '@/assets/actividad/imagen4.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Objetos de flujo empleados para representar eventos y actividades.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Carriles empleados para asignar actividades según cada responsable.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Artefactos empleados para agregar información complementaria al modelo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Compuertas empleadas para controlar divergencias dentro del proceso.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Cuál es el propósito principal de los requerimientos en un proyecto?',
+          imagen: '@/assets/actividad/imagen4.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Satisfacer las expectativas de clientes y partes interesadas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Definir exclusivamente el diseño visual de la aplicación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Establecer únicamente las herramientas usadas en el proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Determinar exclusivamente los costos finales del proyecto.',
               esCorrecta: false,
             },
           ],

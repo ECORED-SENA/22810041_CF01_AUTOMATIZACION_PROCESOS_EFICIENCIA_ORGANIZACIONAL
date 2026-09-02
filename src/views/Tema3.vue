@@ -5,7 +5,23 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 3
-        h1 Titulo de primer nivel
+        h1 Notaciones de requerimientos
+
+
+      
+      Separador
+      #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 3.1 Procesos organizacionales
+
+
+
+        
+      Separador
+      #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 3.2 Modelado de procesos
+
+
+
 
 </template>
 

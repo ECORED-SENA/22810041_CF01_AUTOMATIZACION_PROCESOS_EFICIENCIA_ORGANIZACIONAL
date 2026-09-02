@@ -5,7 +5,25 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Titulo de primer nivel
+        h1 Requerimientos
+
+
+      
+      Separador
+      #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 1.1 Control de cambios
+
+
+
+        
+      Separador
+      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 1.2 Técnicas para el levantamiento de requerimientos
+
+
+
+
+
 
 </template>
 

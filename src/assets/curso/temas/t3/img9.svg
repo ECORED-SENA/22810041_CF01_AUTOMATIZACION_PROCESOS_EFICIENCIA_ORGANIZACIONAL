@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="463" height="289" viewBox="0 0 463 289">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_448675" data-name="Rectangle 448675" width="463" height="289" transform="translate(11318 -10533)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1099706" data-name="Mask Group 1099706" transform="translate(-11318 10533)" clip-path="url(#clip-path)">
+    <g id="Figura_7" data-name="Figura 7" transform="translate(11318 -10523.542)">
+      <rect id="Rectangle_448833" data-name="Rectangle 448833" width="463" height="270.083" fill="#eef5fb"/>
+      <text id="Diagrama_de_perfil_UML" data-name="Diagrama de perfil UML" transform="translate(231.5 25.079)" fill="#24364b" font-size="9" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-50.26" y="0">Diagrama de perfil UML</tspan></text>
+      <rect id="Rectangle_448834" data-name="Rectangle 448834" width="370.4" height="181.342" rx="2.315" transform="translate(46.3 48.229)" fill="#fff" stroke="#6b7c93" stroke-width="0.772"/>
+      <rect id="Rectangle_448835" data-name="Rectangle 448835" width="84.883" height="17.362" rx="1.543" transform="translate(46.3 36.654)" fill="#fff" stroke="#6b7c93" stroke-width="0.772"/>
+      <text id="_profile_Dominio" data-name="«profile» Dominio" transform="translate(88.742 47.843)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="-27.236" y="0">«profile» Dominio</tspan></text>
+      <rect id="Rectangle_448836" data-name="Rectangle 448836" width="100.317" height="46.3" transform="translate(65.592 96.458)" fill="#fff" stroke="#6b7c93" stroke-width="0.772"/>
+      <text id="_metaclass_" data-name="«metaclass»" transform="translate(115.75 109.963)" fill="#6b7c93" font-size="7" font-family="Arial-ItalicMT, Arial" font-style="italic"><tspan x="-19.648" y="0">«metaclass»</tspan></text>
+      <line id="Line_1278" data-name="Line 1278" x2="100.317" transform="translate(65.592 117.679)" stroke="#6b7c93" stroke-width="0.579"/>
+      <text id="Clase" transform="translate(115.75 131.955)" fill="#24364b" font-size="8" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.674" y="0">Clase</tspan></text>
+      <rect id="Rectangle_448837" data-name="Rectangle 448837" width="108.033" height="65.592" transform="translate(283.587 84.883)" fill="#fff" stroke="#d95f5f" stroke-width="0.772"/>
+      <text id="_stereotype_" data-name="«stereotype»" transform="translate(337.604 99.545)" fill="#6b7c93" font-size="7" font-family="Arial-ItalicMT, Arial" font-style="italic"><tspan x="-20.236" y="0">«stereotype»</tspan></text>
+      <line id="Line_1279" data-name="Line 1279" x2="108.033" transform="translate(283.587 108.033)" stroke="#d95f5f" stroke-width="0.579"/>
+      <text id="EntidadDominio" transform="translate(337.604 122.695)" fill="#24364b" font-size="8" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-30.664" y="0">EntidadDominio</tspan></text>
+      <line id="Line_1280" data-name="Line 1280" x2="108.033" transform="translate(283.587 131.183)" stroke="#d95f5f" stroke-width="0.579"/>
+      <text id="_código:_String" data-name="+ código: String" transform="translate(291.304 143.53)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">+ código: String</tspan></text>
+      <line id="Line_1281" data-name="Line 1281" x1="117.679" transform="translate(165.908 117.679)" fill="none" stroke="#d95f5f" stroke-width="0.772"/>
+      <text id="_extend_" data-name="«extend»" transform="translate(223.783 109.963)" fill="#d95f5f" font-size="6" font-family="ArialMT, Arial"><tspan x="-12.344" y="0">«extend»</tspan></text>
+      <rect id="Rectangle_448838" data-name="Rectangle 448838" width="131.183" height="36.654" transform="translate(165.908 175.554)" fill="#fff" stroke="#6b7c93" stroke-width="0.772"/>
+      <text id="_EntidadDominio_" data-name="«EntidadDominio»" transform="translate(231.5 189.058)" fill="#6b7c93" font-size="7" font-family="Arial-ItalicMT, Arial" font-style="italic"><tspan x="-28.602" y="0">«EntidadDominio»</tspan></text>
+      <line id="Line_1282" data-name="Line 1282" x2="131.183" transform="translate(165.908 196.775)" stroke="#6b7c93" stroke-width="0.579"/>
+      <text id="Cliente" transform="translate(231.5 208.35)" fill="#24364b" font-size="8" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-13.336" y="0">Cliente</tspan></text>
+      <line id="Line_1283" data-name="Line 1283" x1="71.379" y2="25.079" transform="translate(266.225 150.475)" fill="none" stroke="#d95f5f" stroke-width="0.772" stroke-dasharray="10 8"/>
+      <text id="aplica_estereotipo" data-name="aplica estereotipo" transform="translate(304.808 167.837)" fill="#d95f5f" font-size="6" font-family="ArialMT, Arial"><tspan x="-23.515" y="0">aplica estereotipo</tspan></text>
+    </g>
+  </g>
+</svg>

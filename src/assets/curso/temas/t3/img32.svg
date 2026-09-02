@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109.232" height="78.012" viewBox="0 0 109.232 78.012">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1333972" data-name="Path 1333972" d="M181.027,240.172H290.259v78.011H181.027Zm0,0" transform="translate(0)" fill="#ece0f6" stroke="#d0b2ea" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1333971" data-name="Path 1333971" d="M290.259,240.172H181.027v69.991c5.81,6.061,24.4,14.546,52.291,0s49.581-6.061,56.94,0Zm0,0" transform="translate(-181.027 -240.172)" fill="#ece0f6" stroke="#d0b2ea" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Diseño_sin_título_6_" data-name="Diseño sin título (6)" transform="translate(-181.027 -240.172)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_1213949" data-name="Group 1213949" transform="translate(181.027 240.172)" clip-path="url(#clip-path-2)">
+      <path id="Path_1333970" data-name="Path 1333970" d="M109.232,0H0V69.991c5.81,6.061,24.4,14.547,52.291,0s49.581-6.061,56.94,0Zm0,0" transform="translate(-0.001 0)" fill="#ece0f6" stroke="#d0b2ea" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
