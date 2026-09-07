@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Requerimientos del proceso de automatización',
     Description:
-      'El componente formativo explica cómo identificar, documentar, gestionar y validar requerimientos para proyectos de software y automatización. Aborda control de cambios, técnicas de levantamiento, restricciones, criterios de automatización, trazabilidad y requisitos funcionales y no funcionales. Además, presenta documentación como PDD y SDD, notaciones UML, procesos organizacionales, diagramas de flujo y BPMN para caracterizar procesos actuales y propuestos adecuadamente.',
+      'El componente formativo explica cómo identificar, documentar, gestionar y validar requerimientos para proyectos de <i>software</i> y automatización. Aborda control de cambios, técnicas de levantamiento, restricciones, criterios de automatización, trazabilidad y requisitos funcionales y no funcionales. Además, presenta documentación como PDD y SDD, notaciones UML, procesos organizacionales, diagramas de flujo y BPMN para caracterizar procesos actuales y propuestos adecuadamente.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -271,12 +271,12 @@ export default {
     },
     {
       referencia:
-        'International Organization for Standardization. (2018). ISO/IEC/IEEE 29148:2018. Systems and software engineering—Life cycle processes—Requirements engineering. ',
+        'International Organization for Standardization. (2018). ISO/IEC/IEEE 29148:2018. Systems and <i>softwar</i> engineering—Life cycle processes—Requirements engineering. ',
       link: 'https://www.iso.org/standard/72089.html',
     },
     {
       referencia:
-        'International Organization for Standardization. (2023). ISO/IEC 25010:2023. Systems and software engineering—Systems and software Quality Requirements and Evaluation (SQuaRE)—Product quality model. ',
+        'International Organization for Standardization. (2023). ISO/IEC 25010:2023. Systems and <i>software</i> engineering—Systems and <i>software</i> Quality Requirements and Evaluation (SQuaRE)—Product quality model. ',
       link: 'https://www.iso.org/standard/78176.html',
     },
     {
