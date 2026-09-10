@@ -111,7 +111,7 @@
                     .col-8
                       img(src='@/assets/curso/temas/t2/img11.svg' style="max-width: 90px").m-auto
                   h4.mb-3.estilo-text No ambiguo
-                  p.mb-0.text-center Admite una sola interpretación por parte de todas las personas involucradas. Se relaciona con los criterios #[b claro] y #[b único] de la formulación anterior.
+                  p.mb-0.text-center Admite una sola interpretación por parte de todas las personas involucradas. Se relaciona con los criterios #[b claros] y #[b únicos] de la formulación anterior.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
@@ -148,7 +148,7 @@
                       img(src='@/assets/curso/temas/t2/img17.svg' style="max-width: 90px").m-auto
                   h4.mb-3.estilo-text Conforme
                   p.mb-0.text-center Se ajusta a la plantilla y al estilo de redacción acordados para documentar los requisitos. Este criterio no estaba contemplado de manera explícita en la formulación anterior.
-      p Por su parte, el #[b conjunto de requisitos] debe ser completo, es decir, cubrir todas las necesidades acordadas; consistente, de manera que ningún requisito contradiga a otro; factible como conjunto; comprensible para quienes deben utilizarlo, y susceptible de ser validado por las partes interesadas. Los criterios de independencia y no redundancia de la formulación anterior quedan comprendidos dentro de la consistencia y la singularidad.
+      p Por su parte, el #[b conjunto de requisitos] debe ser completo, es decir, cubrir todas las necesidades acordadas; consistente, de manera que ningún requisito contradiga a otro; factible como conjunto; comprensible para quienes deben utilizarlo; y susceptible de ser validado por las partes interesadas. Los criterios de independencia y no redundancia de la formulación anterior quedan comprendidos dentro de la consistencia y la singularidad.
       p.mb-5 Para evaluar la calidad del conjunto de requisitos, es necesario considerar cinco características que permiten determinar si el documento responde adecuadamente a las necesidades definidas:
       .bg___carrusel
         .px-5
@@ -216,7 +216,7 @@
                       td.ajuste-border-tabla.texto-left.text-weight-bold Requisitos de los componentes
                       td.ajuste-border-tabla.texto-left Qué debe cumplir cada pieza que se construye: el #[i software], el robot o la interfaz.
                       td.texto-left Es el nivel más detallado. Lo escribe quien va a construir.
-          p.mb-0 Cada nivel se deriva del anterior y responde ante él. El nivel de detalle de cada capa lo decide el analista de negocio. En algunos casos conviene precisar más las necesidades, sin adelantar decisiones sobre esta organización facilita la relación entre las necesidades iniciales, las capacidades esperadas del sistema y los componentes encargados de satisfacerlas.
+          p.mb-0 Cada nivel se deriva del anterior y responde ante él. El nivel de detalle de cada capa lo decide el analista de negocio. En algunos casos conviene precisar más las necesidades; sin adelantar decisiones, esta organización facilita la relación entre las necesidades iniciales, las capacidades esperadas del sistema y los componentes encargados de satisfacerlas.
           Separador
           #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2 2.4 Trazabilidad
@@ -295,63 +295,72 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Adecuación funcional
-                  p.mb-0 Exige que las funciones cubran las necesidades declaradas y entreguen resultados correctos. Por ejemplo: el valor registrado debe coincidir con el publicado por la fuente en la fecha de la consulta.
+                  p Exige que las funciones cubran las necesidades declaradas y entreguen resultados correctos. 
+                  p.mb-0 Por ejemplo: el valor registrado debe coincidir con el publicado por la fuente en la fecha de la consulta.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img30.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Eficiencia de desempeño
-                  p.mb-0 Establece un uso razonable del tiempo y de los recursos. Por ejemplo: cada ejecución del proceso debe completarse en menos de tres minutos.
+                  p Establece un uso razonable del tiempo y de los recursos. 
+                  p.mb-0 Por ejemplo: cada ejecución del proceso debe completarse en menos de tres minutos.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img31.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Compatibilidad
-                  p.mb-0 Considera la coexistencia y la interoperabilidad con otros sistemas. Por ejemplo: el archivo generado debe poder abrirse en la hoja de cálculo institucional sin conversión previa.
+                  p Considera la coexistencia y la interoperabilidad con otros sistemas. 
+                  p.mb-0 Por ejemplo: el archivo generado debe poder abrirse en la hoja de cálculo institucional sin conversión previa.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img32.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Capacidad de interacción
-                  p.mb-0 Establece condiciones para que las personas usuarias puedan operar el sistema con facilidad. Por ejemplo: el mensaje de error debe indicar la causa y la acción sugerida, sin códigos internos.
+                  p Establece condiciones para que las personas usuarias puedan operar el sistema con facilidad.
+                  p.mb-0 Por ejemplo: el mensaje de error debe indicar la causa y la acción sugerida, sin códigos internos.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img33.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Fiabilidad
-                  p.mb-0 Comprende la disponibilidad, la tolerancia a fallos y la capacidad de recuperación. Por ejemplo: el proceso debe ejecutarse los días hábiles y reintentar dos veces ante una falla de conexión.
+                  p Comprende la disponibilidad, la tolerancia a fallos y la capacidad de recuperación. 
+                  p.mb-0 Por ejemplo: el proceso debe ejecutarse los días hábiles y reintentar dos veces ante una falla de conexión.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img34.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Seguridad
-                  p.mb-0 Comprende condiciones relacionadas con la confidencialidad, la integridad y la trazabilidad de la información. Por ejemplo: las credenciales deben almacenarse en el repositorio seguro y no dentro del flujo.
+                  p Comprende condiciones relacionadas con la confidencialidad, la integridad y la trazabilidad de la información. 
+                  p.mb-0 Por ejemplo: las credenciales deben almacenarse en el repositorio seguro y no dentro del flujo.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img35.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Mantenibilidad
-                  p.mb-0 Establece condiciones para facilitar la modificación y corrección de la solución. Por ejemplo: cada flujo debe estar documentado y las rutas deben leerse desde un archivo de configuración.
+                  p Establece condiciones para facilitar la modificación y corrección de la solución.
+                  p.mb-0 Por ejemplo: cada flujo debe estar documentado y las rutas deben leerse desde un archivo de configuración.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img36.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Flexibilidad
-                  p.mb-0 Considera la adaptación a distintos entornos y la capacidad de crecimiento. Por ejemplo: el proceso debe operar sin cambios en los equipos que utilicen el sistema operativo institucional vigente.
+                  p Considera la adaptación a distintos entornos y la capacidad de crecimiento. 
+                  p.mb-0 Por ejemplo: el proceso debe operar sin cambios en los equipos que utilicen el sistema operativo institucional vigente.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img37.png', alt='' style="max-width: 500px").m-auto
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Protección (#[i safety])
-                  p.mb-0 Busca evitar estados que puedan causar daño a personas, bienes o al entorno. Por ejemplo: ante un dato fuera de rango, el proceso debe detenerse y notificar la situación, en lugar de registrar el valor.
+                  p Busca evitar estados que puedan causar daño a personas, bienes o al entorno.
+                  p.mb-0 Por ejemplo: ante un dato fuera de rango, el proceso debe detenerse y notificar la situación, en lugar de registrar el valor.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img38.png', alt='' style="max-width: 500px").m-auto
@@ -459,7 +468,7 @@
                 figure
                   img(src='@/assets/curso/temas/t2/img43.jpg', alt='' style="width: 400px").m-auto
               .col-xl.fit___box_container
-                p.mb-0 La #[i especificación de requisitos] es el resultado del levantamiento de información realizado junto con el cliente o usuario y constituye un medio de comunicación preciso y claro entre quienes desarrollan el #[i software] y quienes lo utilizarán. De esta manera, permite documentar de forma organizada aquello que debe cumplir la solución y proporciona una referencia para su posterior verificación.
+                p.mb-0 La #[b especificación de requisitos] es el resultado del levantamiento de información realizado junto con el cliente o usuario y constituye un medio de comunicación preciso y claro entre quienes desarrollan el #[i software] y quienes lo utilizarán. De esta manera, permite documentar de forma organizada aquello que debe cumplir la solución y proporciona una referencia para su posterior verificación.
           p.mb-0 La versión anterior del componente incluía una plantilla basada en el estándar #[b IEEE 830-1998]. Esta referencia debe actualizarse, debido a que dicho estándar fue retirado y sus contenidos quedaron incorporados en la #[b norma ISO/IEC/IEEE 29148:2018]. La norma vigente conserva elementos de la estructura anterior, como la introducción, la descripción general y los requisitos específicos, pero organiza la documentación en tres especificaciones, de acuerdo con sus destinatarios y con el nivel de requisitos que describen. Estas especificaciones se diferencian de la siguiente manera:
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure

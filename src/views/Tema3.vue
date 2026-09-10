@@ -94,7 +94,7 @@
                     span Diagrama de perfil UML para un dominio
                   figure(data-aos="zoom-in")
                     img(src='@/assets/curso/temas/t3/img9.svg', alt='Diagrama de perfil UML compuesto por elementos y estereotipos utilizados para extender el metamodelo y adaptar la representación UML a las características y necesidades de un dominio específico. ').m-auto
-      p.mb-5 El #[b diagrama de perfil] no se incluía en la versión anterior del componente y se incorpora para completar la clasificación establecida en la especificación vigente.Por otra parte, los diagramas de comportamiento representan las acciones, interacciones y cambios que ocurren durante el funcionamiento del sistema:
+      p.mb-5 El #[b diagrama de perfil] no se incluía en la versión anterior del componente y se incorpora para completar la clasificación establecida en la especificación vigente. Por otra parte, los diagramas de comportamiento representan las acciones, interacciones y cambios que ocurren durante el funcionamiento del sistema:
       .bg___slider.mb-5
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -269,7 +269,7 @@
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.2 Modelado de procesos
       p El #[b modelado de procesos] tiene como propósito facilitar el análisis y la optimización de los procesos. Descomponer un proceso en sus diferentes partes permite estudiarlo con mayor precisión, reconocer las posibilidades de cada actividad y establecer un punto de partida para identificar obstáculos, ineficiencias y oportunidades de mejora.
-      p.mb-5 Para caracterizar un proceso mediante el modelado se deben considerar cuatro categorías de información: #[b insumos], #[b resultados], #[b facilitadores] y #[b guías]. Esta forma de describir el proceso corresponde a la lógica de la #[b notación IDEF0], en la que una actividad se caracteriza mediante sus entradas, salidas, mecanismos y controles. La relación entre estas categorías y un proceso de automatización se presenta a continuación:
+      p.mb-5 Para caracterizar un proceso mediante el modelado. Se deben considerar cuatro categorías de información: #[b insumos], #[b resultados], #[b facilitadores] y #[b guías]. Esta forma de describir el proceso corresponde a la lógica de la #[b notación IDEF0], en la que una actividad se caracteriza mediante sus entradas, salidas, mecanismos y controles. La relación entre estas categorías y un proceso de automatización se presenta a continuación:
       .bg___carrusel
         .px-5
           .row.justify-content-center.mb-5
@@ -299,7 +299,7 @@
                       img(src='@/assets/curso/temas/t3/img25.png', alt="" ).m-auto
                   h4.text-center Facilitadores
                   .box___card_sinbordes_p
-                    p.mb-0.text-center Son los recursos utilizados para transformar los insumos en resultados. En una automatización pueden incluir las aplicaciones, las credenciales y los equipos que necesita el proceso para ejecutarse.
+                    p.mb-0.text-center Son los recursos utilizados para transformar los insumos en resultados. En una automatización pueden incluirse las aplicaciones, las credenciales y los equipos que necesita el proceso para ejecutarse.
             .col-xl-3.col-md-9(data-aos="fade-left")
               .box___card_sinbordes.h-100
                 .row.justify-content-center.mb-3
