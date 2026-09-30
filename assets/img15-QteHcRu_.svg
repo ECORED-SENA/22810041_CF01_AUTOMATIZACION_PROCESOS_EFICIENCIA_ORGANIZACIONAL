@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="461" height="289" viewBox="0 0 461 289">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_449175" data-name="Rectangle 449175" width="461" height="289" transform="translate(9884 -9188)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1099748" data-name="Mask Group 1099748" transform="translate(-9884 9188)" clip-path="url(#clip-path)">
+    <g id="Figura_13" data-name="Figura 13" transform="translate(9886.342 -9188)">
+      <rect id="Rectangle_449204" data-name="Rectangle 449204" width="456.316" height="289" fill="#eef5fb"/>
+      <text id="Diagrama_de_tiempos" data-name="Diagrama de tiempos" transform="translate(228.158 20.914)" fill="#24364b" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-50.571" y="0">Diagrama de tiempos</tspan></text>
+      <text id="Participante_A" data-name="Participante A" transform="translate(30.421 70.349)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Participante A</tspan></text>
+      <text id="Participante_B" data-name="Participante B" transform="translate(30.421 163.513)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Participante B</tspan></text>
+      <line id="Line_1318" data-name="Line 1318" y2="201.539" transform="translate(91.263 45.632)" stroke="#6b7c93" stroke-width="0.761"/>
+      <line id="Line_1319" data-name="Line 1319" x2="327.026" transform="translate(91.263 247.171)" stroke="#6b7c93" stroke-width="0.761"/>
+      <g id="Group_1213795" data-name="Group 1213795">
+        <line id="Line_1320" data-name="Line 1320" y2="201.539" transform="translate(136.895 45.632)" stroke="#cfd8e3" stroke-width="0.38"/>
+        <line id="Line_1321" data-name="Line 1321" y2="201.539" transform="translate(182.526 45.632)" stroke="#cfd8e3" stroke-width="0.38"/>
+        <line id="Line_1322" data-name="Line 1322" y2="201.539" transform="translate(228.158 45.632)" stroke="#cfd8e3" stroke-width="0.38"/>
+        <line id="Line_1323" data-name="Line 1323" y2="201.539" transform="translate(273.789 45.632)" stroke="#cfd8e3" stroke-width="0.38"/>
+        <line id="Line_1324" data-name="Line 1324" y2="201.539" transform="translate(319.421 45.632)" stroke="#cfd8e3" stroke-width="0.38"/>
+        <line id="Line_1325" data-name="Line 1325" y2="201.539" transform="translate(365.053 45.632)" stroke="#cfd8e3" stroke-width="0.38"/>
+      </g>
+      <text id="t0" transform="translate(114.079 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t0</tspan></text>
+      <text id="t1" transform="translate(159.711 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t1</tspan></text>
+      <text id="t2" transform="translate(205.342 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t2</tspan></text>
+      <text id="t3" transform="translate(250.974 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t3</tspan></text>
+      <text id="t4" transform="translate(296.605 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t4</tspan></text>
+      <text id="t5" transform="translate(342.237 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t5</tspan></text>
+      <text id="t6" transform="translate(387.868 260.48)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="0" y="0">t6</tspan></text>
+      <text id="Activo" transform="translate(72.25 57.039)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="-16.339" y="0">Activo</tspan></text>
+      <text id="Espera" transform="translate(72.25 100.77)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="-19.011" y="0">Espera</tspan></text>
+      <text id="Conectado" transform="translate(72.25 148.303)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="-29.021" y="0">Conectado</tspan></text>
+      <text id="Desconectado" transform="translate(72.25 195.836)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="-38.358" y="0">Desconectado</tspan></text>
+      <path id="Path_1333507" data-name="Path 1333507" d="M114.079,96.967h49.434V58.941h98.868V96.967h68.447V58.941h64.645" fill="none" stroke="#d95f5f" stroke-width="1.141"/>
+      <path id="Path_1333508" data-name="Path 1333508" d="M114.079,193.934h76.053V148.3H289v45.632h60.842V148.3h45.632" fill="none" stroke="#d95f5f" stroke-width="1.141"/>
+      <text id="tiempo_" data-name="tiempo →" transform="translate(235.763 43.73)" fill="#6b7c93" font-size="6" font-family="ArialMT, Arial"><tspan x="-12.838" y="0">tiempo →</tspan></text>
+    </g>
+  </g>
+</svg>

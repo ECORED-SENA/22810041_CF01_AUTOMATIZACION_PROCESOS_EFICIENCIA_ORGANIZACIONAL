@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="398" viewBox="0 0 1030 398">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_453645" data-name="Rectangle 453645" width="1030" height="398" transform="translate(285.408 3439)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1099750" data-name="Mask Group 1099750" transform="translate(-285.408 -3439)" clip-path="url(#clip-path)">
+    <g id="Figura_15" data-name="Figura 15" transform="translate(285 3456)">
+      <rect id="Rectangle_453646" data-name="Rectangle 453646" width="1030" height="360.624" fill="#efefef"/>
+      <text id="_actor_principal_" data-name="«actor principal»" transform="translate(47.754 51.871)" fill="#7a7a7a" font-size="13" font-family="Arial-ItalicMT, Arial" font-style="italic"><tspan x="0" y="0">«actor principal»</tspan></text>
+      <circle id="Ellipse_22571" data-name="Ellipse 22571" cx="12.35" cy="12.35" r="12.35" transform="translate(71.631 65.867)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1326" data-name="Line 1326" y2="37.874" transform="translate(83.981 90.568)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1327" data-name="Line 1327" x2="42.814" transform="translate(62.574 105.388)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1328" data-name="Line 1328" x1="16.467" y2="25.524" transform="translate(67.514 128.441)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1329" data-name="Line 1329" x2="16.467" y2="25.524" transform="translate(83.981 128.441)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <text id="Persona_encargada" data-name="Persona encargada" transform="translate(83.981 175.372)" fill="#3f7f35" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-69.199" y="0">Persona encargada</tspan></text>
+      <text id="del_registro" data-name="del registro" transform="translate(83.981 194.309)" fill="#3f7f35" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-40.844" y="0">del registro</tspan></text>
+      <text id="_actor_secundario_" data-name="«actor secundario»" transform="translate(898.265 51.871)" fill="#7a7a7a" font-size="13" font-family="Arial-ItalicMT, Arial" font-style="italic"><tspan x="0" y="0">«actor secundario»</tspan></text>
+      <circle id="Ellipse_22572" data-name="Ellipse 22572" cx="12.35" cy="12.35" r="12.35" transform="translate(929.552 65.867)" fill="none" stroke="#a86d10" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1330" data-name="Line 1330" y2="37.874" transform="translate(941.902 90.568)" fill="none" stroke="#a86d10" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1331" data-name="Line 1331" x2="42.814" transform="translate(920.496 105.388)" fill="none" stroke="#a86d10" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1332" data-name="Line 1332" x1="16.467" y2="25.524" transform="translate(925.436 128.441)" fill="none" stroke="#a86d10" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1333" data-name="Line 1333" x2="16.467" y2="25.524" transform="translate(941.902 128.441)" fill="none" stroke="#a86d10" stroke-linecap="round" stroke-width="1.894"/>
+      <text id="Fuente_oficial_de" data-name="Fuente oficial de" transform="translate(941.902 175.372)" fill="#a86d10" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-59.176" y="0">Fuente oficial de</tspan></text>
+      <text id="divisas" transform="translate(941.902 194.309)" fill="#a86d10" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-25.433" y="0">divisas</tspan></text>
+      <rect id="Rectangle_453647" data-name="Rectangle 453647" width="435.548" height="333.453" rx="8.233" transform="translate(295.58 11.527)" fill="#f5f6f7" stroke="#7a8a94" stroke-width="1.235"/>
+      <path id="Path_1333559" data-name="Path 1333559" d="M303.813,11.527H722.894a8.233,8.233,0,0,1,8.233,8.233V50.224H295.58V19.76A8.233,8.233,0,0,1,303.813,11.527Z" fill="#7a8a94"/>
+      <text id="Sistema_de_consulta_y_registro_de_divisas" data-name="Sistema de consulta y registro de divisas" transform="translate(513.353 31.287)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-156.949" y="0">Sistema de consulta y registro de divisas</tspan></text>
+      <ellipse id="Ellipse_22573" data-name="Ellipse 22573" cx="194.309" cy="37.874" rx="194.309" ry="37.874" transform="translate(319.456 67.514)" fill="#dce3e9" stroke="#2d6f9f" stroke-width="1.482"/>
+      <text id="Consultar_el_valor_de_las_divisas_en_la_fuente_oficial" data-name="Consultar el valor de las divisas en la fuente oficial" transform="translate(513.765 105.388)" fill="#4d5b66" font-size="13" font-family="ArialMT, Arial"><tspan x="-145.606" y="0">Consultar el valor de las divisas en la fuente oficial</tspan></text>
+      <ellipse id="Ellipse_22574" data-name="Ellipse 22574" cx="193.485" cy="37.874" rx="193.485" ry="37.874" transform="translate(327.622 157.258)" fill="#dce3e9" stroke="#2d6f9f" stroke-width="1.482"/>
+      <text id="Registrar_el_valor_en_el_archivo_de_control" data-name="Registrar el valor en el archivo de control" transform="translate(521.107 195.132)" fill="#4d5b66" font-size="13" font-family="ArialMT, Arial"><tspan x="-118.139" y="0">Registrar el valor en el archivo de control</tspan></text>
+      <ellipse id="Ellipse_22575" data-name="Ellipse 22575" cx="193.485" cy="36.227" rx="193.485" ry="36.227" transform="translate(320.28 249.472)" fill="#dce3e9" stroke="#2d6f9f" stroke-width="1.482"/>
+      <text id="Registrar_la_ejecución_en_la_bitácora" data-name="Registrar la ejecución en la bitácora" transform="translate(513.765 285.699)" fill="#4d5b66" font-size="13" font-family="ArialMT, Arial"><tspan x="-103.333" y="0">Registrar la ejecución en la bitácora</tspan></text>
+      <line id="Line_1334" data-name="Line 1334" x2="214.069" transform="translate(105.388 105.388)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1335" data-name="Line 1335" x2="223.945" y2="88.997" transform="translate(104.5 105.312)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1336" data-name="Line 1336" x2="215.715" y2="180.312" transform="translate(105.388 105.388)" fill="none" stroke="#3f7f35" stroke-linecap="round" stroke-width="1.894"/>
+      <line id="Line_1337" data-name="Line 1337" x2="221.479" transform="translate(708.074 105.388)" fill="none" stroke="#a86d10" stroke-linecap="round" stroke-width="1.647" stroke-dasharray="7 6"/>
+    </g>
+  </g>
+</svg>
