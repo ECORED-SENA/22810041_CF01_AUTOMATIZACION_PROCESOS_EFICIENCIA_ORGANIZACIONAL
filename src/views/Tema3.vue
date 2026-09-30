@@ -319,7 +319,7 @@
       p.mb-5 A continuación, se presenta un video que explica las principales técnicas utilizadas para describir y analizar un proceso, facilitando la identificación de sus actividades, relaciones y oportunidades de mejora y optimización.
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/SAFHGsCB-10" title="Descripción y análisis de procesos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video Video. Descripción y análisis de procesos
       .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
         .col-lg-auto

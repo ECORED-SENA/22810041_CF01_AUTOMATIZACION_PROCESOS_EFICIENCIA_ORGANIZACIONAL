@@ -130,7 +130,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/22810041_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -153,7 +153,7 @@ export default {
     {
       termino: 'BPMN',
       significado:
-        'Business Process Model and Notation. Notación estándar para el modelado de procesos de negocio, publicada por el <i>Object Management Group</i>.',
+        '<i>Business Process Model and Notation</i>. Notación estándar para el modelado de procesos de negocio, publicada por el <i>Object Management Group</i>.',
     },
     {
       termino: 'Caso de uso',
@@ -223,7 +223,7 @@ export default {
         'documento de diseño de la solución. Describe la arquitectura y los componentes del robot que se va a construir.',
     },
     {
-      termino: 'Stakeholder',
+      termino: '<i>Stakeholder</i>',
       significado:
         'grupo de personas interesadas que deben influir en la aplicación.',
     },
@@ -323,11 +323,6 @@ export default {
           cargo:
             'Profesional 06. Responsable del ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
