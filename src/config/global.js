@@ -272,12 +272,12 @@ export default {
     {
       referencia:
         'International Organization for Standardization. (2018). ISO/IEC/IEEE 29148:2018. Systems and <i>softwar</i> engineering—Life cycle processes—Requirements engineering. ',
-      link: 'https://www.iso.org/standard/72089.html',
+      link: '',
     },
     {
       referencia:
         'International Organization for Standardization. (2023). ISO/IEC 25010:2023. Systems and <i>software</i> engineering—Systems and <i>software</i> Quality Requirements and Evaluation (SQuaRE)—Product quality model. ',
-      link: 'https://www.iso.org/standard/78176.html',
+      link: '',
     },
     {
       referencia:
@@ -333,19 +333,19 @@ export default {
           nombre: 'Luis Eyder Ortiz Collazos',
           cargo: 'Experto temático',
           centro:
-            'Centro de Teleinformática y Producción Industrial – Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Zulema Yidney León Escobar',
           cargo: 'Experta temática',
           centro:
-            'Centro de Teleinformática y Producción Industrial – Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Yoli Alexandra Guevara',
           cargo: 'Experta temática',
           centro:
-            'Centro de Teleinformática y Producción Industrial – Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
@@ -384,13 +384,13 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Carlos Eduardo Garavito Parada',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -412,25 +412,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Ricardo Oliveros Zambrano',
-          cargo: 'Validador de recursos educativos digitales',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
           nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Ricardo Oliveros Zambrano',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
