@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="461" height="289" viewBox="0 0 461 289">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_449170" data-name="Rectangle 449170" width="461" height="289" transform="translate(854.408 1777)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1099743" data-name="Mask Group 1099743" transform="translate(-854.408 -1777)" clip-path="url(#clip-path)">
+    <g id="Figura_8" data-name="Figura 8" transform="translate(844.717 1765.909)">
+      <rect id="Rectangle_449177" data-name="Rectangle 449177" width="313.07" height="287.899" rx="7.866" transform="translate(91.876 11.642)" fill="none" stroke="#0b255a" stroke-width="1.101"/>
+      <text id="Sistema_de_Banca_en_Línea" data-name="Sistema de Banca en Línea" transform="translate(248.568 27.059)" fill="#10254a" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-77.364" y="0">Sistema de Banca en Línea</tspan></text>
+      <g id="Group_1213792" data-name="Group 1213792">
+        <circle id="Ellipse_22555" data-name="Ellipse 22555" cx="7.551" cy="7.551" r="7.551" transform="translate(34.925 86.527)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1284" data-name="Line 1284" y2="21.396" transform="translate(42.477 101.63)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1285" data-name="Line 1285" x2="24.542" transform="translate(30.206 108.237)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1286" data-name="Line 1286" x1="10.698" y2="10.069" transform="translate(31.779 123.026)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1287" data-name="Line 1287" x2="10.383" y2="10.069" transform="translate(42.477 123.026)" fill="none" stroke="#222" stroke-width="0.944"/>
+      </g>
+      <text id="Cliente" transform="translate(42.477 147.882)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-14.008" y="0">Cliente</tspan></text>
+      <g id="Group_1213793" data-name="Group 1213793">
+        <circle id="Ellipse_22556" data-name="Ellipse 22556" cx="6.922" cy="6.922" r="6.922" transform="translate(437.984 40.274)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1288" data-name="Line 1288" y2="15.103" transform="translate(444.906 54.119)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1289" data-name="Line 1289" x2="20.766" transform="translate(434.523 58.838)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1290" data-name="Line 1290" x1="9.439" y2="10.698" transform="translate(435.467 69.222)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1291" data-name="Line 1291" x2="9.439" y2="10.698" transform="translate(444.906 69.222)" fill="none" stroke="#222" stroke-width="0.944"/>
+      </g>
+      <text id="Empleado" transform="translate(444.906 92.82)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-20.263" y="0">Empleado</tspan></text>
+      <text id="bancario" transform="translate(444.906 103.518)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-17.262" y="0">bancario</tspan></text>
+      <g id="Group_1213794" data-name="Group 1213794">
+        <circle id="Ellipse_22557" data-name="Ellipse 22557" cx="7.237" cy="7.237" r="7.237" transform="translate(35.24 223.711)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1292" data-name="Line 1292" y2="18.249" transform="translate(42.477 238.185)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1293" data-name="Line 1293" x2="22.654" transform="translate(31.15 243.849)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1294" data-name="Line 1294" x1="9.754" y2="10.383" transform="translate(32.723 256.434)" fill="none" stroke="#222" stroke-width="0.944"/>
+        <line id="Line_1295" data-name="Line 1295" x2="9.754" y2="10.383" transform="translate(42.477 256.434)" fill="none" stroke="#222" stroke-width="0.944"/>
+      </g>
+      <text id="Cliente_NRFC" data-name="Cliente NRFC" transform="translate(42.477 281.291)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-27.756" y="0">Cliente NRFC</tspan></text>
+      <line id="Line_1296" data-name="Line 1296" y1="27.689" transform="translate(43.735 195.079)" fill="none" stroke="#222" stroke-width="0.944"/>
+      <ellipse id="Ellipse_22558" data-name="Ellipse 22558" cx="40.274" cy="22.654" rx="40.274" ry="22.654" transform="translate(130.577 35.24)" fill="#cfe7fb" stroke="#276fbd" stroke-width="0.944"/>
+      <text id="Abrir_cuenta" data-name="Abrir cuenta" transform="translate(170.851 61.041)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-24.262" y="0">Abrir cuenta</tspan></text>
+      <ellipse id="Ellipse_22559" data-name="Ellipse 22559" cx="40.274" cy="22.969" rx="40.274" ry="22.969" transform="translate(130.577 95.022)" fill="#cfe7fb" stroke="#276fbd" stroke-width="0.944"/>
+      <text id="Depositar" transform="translate(170.851 115.474)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-19.259" y="0">Depositar</tspan></text>
+      <text id="fondos" transform="translate(170.851 127.431)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-13.511" y="0">fondos</tspan></text>
+      <ellipse id="Ellipse_22560" data-name="Ellipse 22560" cx="40.274" cy="22.969" rx="40.274" ry="22.969" transform="translate(130.577 155.119)" fill="#cfe7fb" stroke="#276fbd" stroke-width="0.944"/>
+      <text id="Retirar" transform="translate(170.851 175.571)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-13.502" y="0">Retirar</tspan></text>
+      <text id="fondos-2" data-name="fondos" transform="translate(170.851 187.527)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-13.511" y="0">fondos</tspan></text>
+      <ellipse id="Ellipse_22561" data-name="Ellipse 22561" cx="39.645" cy="24.542" rx="39.645" ry="24.542" transform="translate(286.326 87.471)" fill="#cfe7fb" stroke="#276fbd" stroke-width="0.944"/>
+      <text id="Calcular" transform="translate(325.971 109.181)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-16.506" y="0">Calcular</tspan></text>
+      <text id="bonificación" transform="translate(325.971 121.138)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-23.766" y="0">bonificación</tspan></text>
+      <ellipse id="Ellipse_22562" data-name="Ellipse 22562" cx="36.813" cy="24.542" rx="36.813" ry="24.542" transform="translate(288.528 159.524)" fill="#cfe7fb" stroke="#276fbd" stroke-width="0.944"/>
+      <text id="Actualizar" transform="translate(325.341 181.235)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-19.758" y="0">Actualizar</tspan></text>
+      <text id="saldo" transform="translate(325.341 193.191)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-10.758" y="0">saldo</tspan></text>
+      <ellipse id="Ellipse_22563" data-name="Ellipse 22563" cx="37.443" cy="23.284" rx="37.443" ry="23.284" transform="translate(131.521 222.138)" fill="#cfe7fb" stroke="#276fbd" stroke-width="0.944"/>
+      <text id="Convertir" transform="translate(168.964 242.59)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-18.255" y="0">Convertir</tspan></text>
+      <text id="monedas" transform="translate(168.964 254.547)" fill="#10254a" font-size="9" font-family="ArialMT, Arial"><tspan x="-18.512" y="0">monedas</tspan></text>
+      <path id="Path_1333404" data-name="Path 1333404" d="M61.985,111.069l68.592-53.175" fill="none" stroke="#222" stroke-width="0.944"/>
+      <path id="Path_1333405" data-name="Path 1333405" d="M61.985,111.069l68.592,6.922" fill="none" stroke="#222" stroke-width="0.944"/>
+      <path id="Path_1333406" data-name="Path 1333406" d="M61.985,111.069l68.592,67.019" fill="none" stroke="#222" stroke-width="0.944"/>
+      <line id="Line_1297" data-name="Line 1297" x2="216.789" transform="translate(211.126 57.894)" fill="none" stroke="#222" stroke-width="0.944"/>
+      <line id="Line_1298" data-name="Line 1298" x2="72.368" y2="0.315" transform="translate(59.153 245.107)" fill="none" stroke="#222" stroke-width="0.944"/>
+      <line id="Line_1299" data-name="Line 1299" x1="74.57" y2="3.461" transform="translate(211.755 112.957)" fill="none" stroke="#222" stroke-width="0.944" stroke-dasharray="11 9"/>
+      <text id="_extend_" data-name="«extend»" transform="translate(250.771 100.057)" fill="#111" font-size="8" font-family="ArialMT, Arial"><tspan x="-16.459" y="0">«extend»</tspan></text>
+      <line id="Line_1300" data-name="Line 1300" x2="82.751" y2="44.994" transform="translate(205.777 128.689)" fill="none" stroke="#222" stroke-width="0.944" stroke-dasharray="11 9"/>
+      <text id="_include_" data-name="«include»" transform="translate(257.064 141.59)" fill="#111" font-size="8" font-family="ArialMT, Arial"><tspan x="-17.125" y="0">«include»</tspan></text>
+      <line id="Line_1301" data-name="Line 1301" x2="77.402" y2="4.72" transform="translate(210.811 177.774)" fill="none" stroke="#222" stroke-width="0.944" stroke-dasharray="11 9"/>
+      <text id="_include_2" data-name="«include»" transform="translate(254.232 195.079)" fill="#111" font-size="8" font-family="ArialMT, Arial"><tspan x="-17.125" y="0">«include»</tspan></text>
+    </g>
+  </g>
+</svg>

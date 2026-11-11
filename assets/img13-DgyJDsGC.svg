@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="461" height="289" viewBox="0 0 461 289">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_449173" data-name="Rectangle 449173" width="461" height="289" transform="translate(11304 -9840)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1099746" data-name="Mask Group 1099746" transform="translate(-11304 9840)" clip-path="url(#clip-path)">
+    <g id="Figura_11" data-name="Figura 11" transform="translate(11306.342 -9840)">
+      <rect id="Rectangle_449193" data-name="Rectangle 449193" width="456.316" height="289" fill="#eef5fb"/>
+      <text id="Diagrama_de_secuencia" data-name="Diagrama de secuencia" transform="translate(228.158 20.914)" fill="#24364b" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-55.583" y="0">Diagrama de secuencia</tspan></text>
+      <rect id="Rectangle_449194" data-name="Rectangle 449194" width="83.658" height="22.816" transform="translate(45.632 38.026)" fill="#fff" stroke="#6b7c93" stroke-width="0.761"/>
+      <text id="Usuario" transform="translate(87.461 52.096)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="-12.06" y="0">Usuario</tspan></text>
+      <rect id="Rectangle_449195" data-name="Rectangle 449195" width="83.658" height="22.816" transform="translate(186.329 38.026)" fill="#fff" stroke="#6b7c93" stroke-width="0.761"/>
+      <text id="Sistema" transform="translate(228.158 52.096)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="-12.643" y="0">Sistema</tspan></text>
+      <rect id="Rectangle_449196" data-name="Rectangle 449196" width="83.658" height="22.816" transform="translate(327.026 38.026)" fill="#fff" stroke="#6b7c93" stroke-width="0.761"/>
+      <text id="Base_de_datos" data-name="Base de datos" transform="translate(368.855 52.096)" fill="#24364b" font-size="7" font-family="ArialMT, Arial"><tspan x="-22.377" y="0">Base de datos</tspan></text>
+      <line id="Line_1302" data-name="Line 1302" y2="201.539" transform="translate(87.461 60.842)" stroke="#6b7c93" stroke-width="0.761" stroke-dasharray="8 8"/>
+      <line id="Line_1303" data-name="Line 1303" y2="201.539" transform="translate(228.158 60.842)" stroke="#6b7c93" stroke-width="0.761" stroke-dasharray="8 8"/>
+      <line id="Line_1304" data-name="Line 1304" y2="201.539" transform="translate(368.855 60.842)" stroke="#6b7c93" stroke-width="0.761" stroke-dasharray="8 8"/>
+      <rect id="Rectangle_449197" data-name="Rectangle 449197" width="7.605" height="114.079" transform="translate(224.355 89.362)" fill="#fff" stroke="#d95f5f" stroke-width="0.761"/>
+      <rect id="Rectangle_449198" data-name="Rectangle 449198" width="7.605" height="45.632" transform="translate(365.053 127.388)" fill="#fff" stroke="#d95f5f" stroke-width="0.761"/>
+      <line id="Line_1305" data-name="Line 1305" x2="136.895" transform="translate(87.461 87.461)" fill="none" stroke="#d95f5f" stroke-width="0.761"/>
+      <text id="_1._enviar_solicitud" data-name="1. enviar solicitud" transform="translate(155.908 81.757)" fill="#d95f5f" font-size="6" font-family="ArialMT, Arial"><tspan x="-23.178" y="0">1. enviar solicitud</tspan></text>
+      <line id="Line_1306" data-name="Line 1306" x2="133.092" transform="translate(231.961 125.487)" fill="none" stroke="#d95f5f" stroke-width="0.761"/>
+      <text id="_2._consultar_datos" data-name="2. consultar datos" transform="translate(298.507 119.783)" fill="#d95f5f" font-size="6" font-family="ArialMT, Arial"><tspan x="-23.681" y="0">2. consultar datos</tspan></text>
+      <line id="Line_1307" data-name="Line 1307" x1="133.092" transform="translate(231.961 173.02)" fill="none" stroke="#d95f5f" stroke-width="0.761" stroke-dasharray="8 6"/>
+      <text id="_3._devolver_resultado" data-name="3. devolver resultado" transform="translate(298.507 167.316)" fill="#d95f5f" font-size="6" font-family="ArialMT, Arial"><tspan x="-27.85" y="0">3. devolver resultado</tspan></text>
+      <line id="Line_1308" data-name="Line 1308" x1="136.895" transform="translate(87.461 203.441)" fill="none" stroke="#d95f5f" stroke-width="0.761" stroke-dasharray="8 6"/>
+      <text id="_4._mostrar_respuesta" data-name="4. mostrar respuesta" transform="translate(155.908 197.737)" fill="#d95f5f" font-size="6" font-family="ArialMT, Arial"><tspan x="-27.511" y="0">4. mostrar respuesta</tspan></text>
+    </g>
+  </g>
+</svg>

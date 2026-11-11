@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="696" viewBox="0 0 820 696">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_453717" data-name="Rectangle 453717" width="820" height="696" transform="translate(390.408 9113)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1099756" data-name="Mask Group 1099756" transform="translate(-390.408 -9113)" clip-path="url(#clip-path)">
+    <g id="Figura_17" data-name="Figura 17" transform="translate(392.994 9113)">
+      <rect id="Rectangle_453718" data-name="Rectangle 453718" width="814.829" height="696" fill="#fff"/>
+      <rect id="Rectangle_453719" data-name="Rectangle 453719" width="198.615" height="50.927" rx="25.463" transform="translate(152.78 27.161)" fill="#eef6ec" stroke="#4e8a46" stroke-width="2.207"/>
+      <text id="Inicio" transform="translate(252.088 59.415)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-22.177" y="0">Inicio</tspan></text>
+      <line id="Line_1344" data-name="Line 1344" y2="22.068" transform="translate(252.088 78.088)" stroke="#7a8f9c" stroke-width="2.546"/>
+      <path id="Path_1333570" data-name="Path 1333570" d="M89.971,110.341h351.4L414.2,191.824H64.507Z" fill="#eaf3f8" stroke="#3f7ca4" stroke-width="2.207"/>
+      <text id="Leer_el_valor_del_dólar_y_el_euro_en_la_fuente_oficial" data-name="Leer el valor del dólar y el euro 
+en la fuente oficial" transform="translate(252.937 145.99)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-133.074" y="0">Leer el valor del dólar y el euro </tspan><tspan x="-76.58" y="24">en la fuente oficial</tspan></text>
+      <line id="Line_1345" data-name="Line 1345" y2="27.161" transform="translate(252.937 191.824)" stroke="#7a8f9c" stroke-width="2.546"/>
+      <path id="Path_1333571" data-name="Path 1333571" d="M252.937,224.078,414.2,283.493,252.937,342.907,91.668,283.493Z" fill="#fff8ea" stroke="#b57a26" stroke-width="2.207"/>
+      <text id="_Se_obtuvo_el_valor_" data-name="¿Se obtuvo 
+el valor?" transform="translate(252.937 278.4)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-51.225" y="0">¿Se obtuvo </tspan><tspan x="-35.908" y="24">el valor?</tspan></text>
+      <line id="Line_1346" data-name="Line 1346" x2="103.551" transform="translate(414.205 283.493)" stroke="#7a8f9c" stroke-width="2.546"/>
+      <text id="No" transform="translate(468.527 271.61)" fill="#d14312" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-11.331" y="0">No</tspan></text>
+      <rect id="Rectangle_453720" data-name="Rectangle 453720" width="281.795" height="83.18" rx="3.395" transform="translate(526.244 241.054)" fill="#fff3ef" stroke="#e95b2b" stroke-width="2.207"/>
+      <text id="Registrar_la_excepción_en_la_bitácora" data-name="Registrar la excepción 
+en la bitácora" transform="translate(667.141 278.4)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-96.628" y="0">Registrar la excepción </tspan><tspan x="-57.037" y="24">en la bitácora</tspan></text>
+      <line id="Line_1347" data-name="Line 1347" y2="28.859" transform="translate(252.937 342.907)" stroke="#7a8f9c" stroke-width="2.546"/>
+      <text id="Sí" transform="translate(268.215 363.278)" fill="#3c8d3d" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Sí</tspan></text>
+      <path id="Path_1333572" data-name="Path 1333572" d="M64.507,375.161H441.366v69.6c-50.927,6.79-93.366,11.883-140.9,8.488-59.415-5.093-110.341-15.278-166.361-11.883-27.161,1.7-49.229,5.093-69.6,6.79Z" fill="#eef6fb" stroke="#3f7ca4" stroke-width="2.207"/>
+      <text id="Escribir_fecha_divisa_y_valor_en_el_archivo_de_control" data-name="Escribir fecha, divisa y valor 
+en el archivo de control" transform="translate(252.937 409.112)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-120.374" y="0">Escribir fecha, divisa y valor </tspan><tspan x="-98.224" y="24">en el archivo de control</tspan></text>
+      <line id="Line_1348" data-name="Line 1348" y2="35.649" transform="translate(252.937 454.946)" stroke="#7a8f9c" stroke-width="2.546"/>
+      <rect id="Rectangle_453721" data-name="Rectangle 453721" width="376.859" height="61.112" rx="3.395" transform="translate(64.507 497.385)" fill="#eef6fb" stroke="#3f7ca4" stroke-width="2.207"/>
+      <text id="Registrar_la_ejecución_en_la_bitácora" data-name="Registrar la ejecución en la bitácora" transform="translate(252.937 534.732)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-151.026" y="0">Registrar la ejecución en la bitácora</tspan></text>
+      <line id="Line_1349" data-name="Line 1349" y2="28.859" transform="translate(252.937 558.498)" stroke="#7a8f9c" stroke-width="2.546"/>
+      <rect id="Rectangle_453722" data-name="Rectangle 453722" width="198.615" height="50.927" rx="25.463" transform="translate(152.78 590.751)" fill="#eef6ec" stroke="#4e8a46" stroke-width="2.207"/>
+      <text id="Final" transform="translate(252.088 623.005)" fill="#3d4b55" font-size="19" font-family="ArialMT, Arial"><tspan x="-20.591" y="0">Final</tspan></text>
+      <path id="Path_1333573" data-name="Path 1333573" d="M667.141,324.234v291.98H358.185" fill="none" stroke="#7a8f9c" stroke-width="2.546"/>
+    </g>
+  </g>
+</svg>
